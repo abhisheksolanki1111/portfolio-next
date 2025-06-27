@@ -30,6 +30,12 @@ const Experience = () => {
                         database queries, and enhancing application performance.</p>
                     <h3 className='mt-8 font-semibold text-gray-400'>2. React Development Experience</h3>
 
+                    <p className='mt-8 font-semibold text-gray-400'><strong> Good Fences Project :</strong>  Developed a comprehensive admin panel for
+                        a property management system. The panel included role-based
+                        access control with roles such as Administrator, HOA, Member,
+                        Review Board Member, and Board of Director. Successfully
+                        implemented features for managing properties, users, and
+                        workflows, tailored to meet specific business requirements.</p>
                     <p className='mt-8 font-semibold text-gray-400'><strong> Other Project :</strong>  Targus accessory  finder</p>
                     <p className='mt-8 font-semibold text-gray-400'><strong>  Project Tasks, Bug Fixes, and Modules :</strong> Completed numerous
                         tasks, bug fixes, and feature modules across multiple projects,
