@@ -37,7 +37,7 @@ export default function Projects() {
                                 </h1>
 
                                 <div className="flex justify-center items-center mt-3 space-x-8">
-                                    <Link href="https://todo-app-flask-c7oo.onrender.com/login?next=%2F">
+                                    <Link href="#">
                                         <button className="py-2 px-8 rounded-full border-2 border-gray-500 text-green-600 font-bold hover:text-white">
                                             View
                                         </button>
@@ -57,12 +57,12 @@ export default function Projects() {
                                     {/* Optional overlay or title can go here */}
                                 </div>
 
-                                <h1 className="text-gray-400 font-bold mt-3">
-                                    Building a Fiverr, Upwork like platform with user authentication and profile creation using <span className="text-green-600 font-bold">Django.</span>
+                                <h1 className="text-gray-400 font-bold mt-3  line-clamp-3">
+                                    Developed a full-featured Media Library platform using <span className="text-green-600 font-bold">Laravel</span> for backend API and <span className="text-green-600 font-bold">React.js</span> for frontend, enabling media uploads, previews, and secure file management.
                                 </h1>
 
                                 <div className="flex justify-center items-center mt-3 space-x-8">
-                                    <Link href="https://github.com/sandhyapatel12/freelancing-app-Django">
+                                    <Link target="_blank" href="https://github.com/abhisheksolanki1111/media_library">
                                         <button className="py-2 px-8 rounded-full border-2 border-gray-500 text-green-600 font-bold hover:text-white">
                                             code
                                         </button>
@@ -84,7 +84,7 @@ export default function Projects() {
                                 <h1 className=" text-gray-400 font-bold mt-3"> This is social media app which is developed in <span className="text-green-600 font-bold">React JS</span> with all social funcnality.</h1>
 
                                 <div className="flex justify-center items-center mt-3 space-x-8">
-                                    <Link href='https://github.com/sandhyapatel12/social-media-react'>
+                                    <Link href='#'>
                                         <button className="py-2 px-8 rounded-full border-2 border-gray-500 text-green-600 font-bold hover:text-white">code</button>
                                     </Link>
                                 </div>
@@ -102,7 +102,7 @@ export default function Projects() {
                                 <h1 className=" text-gray-400 font-bold mt-3"> In this app includes payment gatway, login with google, register user with backend.</h1>
 
                                 <div className="flex justify-center items-center mt-3 space-x-8">
-                                    <Link href='https://github.com/sandhyapatel12/food-ordering-System-redux-toolkit'>
+                                    <Link href='#'>
                                         <button className="py-2 px-8 rounded-full border-2 border-gray-500 text-green-600 font-bold hover:text-white">code</button>
                                     </Link>
                                 </div>
@@ -120,7 +120,7 @@ export default function Projects() {
                                 <h1 className=" text-gray-400 font-bold mt-3"> In this ecommerce website user can find product by serching or also use filter funcnality.</h1>
 
                                 <div className="flex justify-center items-center mt-3 space-x-8">
-                                    <Link href='https://github.com/sandhyapatel12/ecommerce-website-react'>
+                                    <Link href='#'>
                                         <button className="py-2 px-8 rounded-full border-2 border-gray-500 text-green-600 font-bold hover:text-white">code</button>
                                     </Link>
                                 </div>
@@ -138,7 +138,7 @@ export default function Projects() {
                                 <h1 className=" text-gray-400 font-bold mt-3">In this full stack app user can add their notes and view all own notes by valid login.</h1>
 
                                 <div className="flex justify-center items-center mt-3 space-x-8">
-                                    <Link href='https://github.com/sandhyapatel12/iNotebook-react'>
+                                    <Link href='#'>
                                         <button className="py-2 px-8 rounded-full border-2 border-gray-500 text-green-600 font-bold hover:text-white">code</button>
                                     </Link>
                                 </div>
@@ -156,7 +156,7 @@ export default function Projects() {
                                 <h1 className=" text-gray-400 font-bold mt-3"> In this react app  user can convert any text into uppercase, lowercase, copy text etc.</h1>
 
                                 <div className="flex justify-center items-center mt-3 space-x-8">
-                                    <Link href='https://github.com/sandhyapatel12/TextUtils-react'>
+                                    <Link href='#'>
                                         <button className="py-2 px-8 rounded-full border-2 border-gray-500 text-green-600 font-bold hover:text-white">code</button>
                                     </Link>
                                 </div>

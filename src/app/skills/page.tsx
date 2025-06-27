@@ -1,4 +1,4 @@
-import { FaGithub, FaReact } from "react-icons/fa";
+import { FaGithub, FaLaravel, FaReact } from "react-icons/fa";
 import { SiRedux } from "react-icons/si";
 import { RiNextjsFill, RiTailwindCssFill } from "react-icons/ri";
 import { MdCss } from "react-icons/md";
@@ -40,9 +40,11 @@ const Skills = () => {
                 <div className='flex items-center justify-center rounded-md bg-gray-800 h-20 w-24 md:h-24 md:w-28 hover:scale-110 transform transition-transform duration-300'>
                   <FaReact className="h-10 w-10 md:h-14 md:w-14" />
                 </div>
+                
                 <div className='flex items-center justify-center rounded-md bg-gray-800 h-20 w-24 md:h-24 md:w-28 hover:scale-110 transform transition-transform duration-300'>
-                  <FaPython className="h-10 w-10 md:h-14 md:w-14" />
-                </div> 
+                  <FaLaravel className="h-10 w-10 md:h-14 md:w-14" />
+                </div>
+                
                 <div className='flex items-center justify-center rounded-md bg-gray-800 h-20 w-24 md:h-24 md:w-28 hover:scale-110 transform transition-transform duration-300'>
                   <RiTailwindCssFill className="h-10 w-10 md:h-14 md:w-14" />
                 </div>
@@ -51,13 +53,7 @@ const Skills = () => {
               <div className="grid  grid-cols-3 gap-2 md:gap-4 mt-3">
                 <div className='flex items-center justify-center rounded-md bg-gray-800 h-20 w-24 md:h-24 md:w-28 hover:scale-110 transform transition-transform duration-300'>
                   <RiNextjsFill className="h-10 w-10 md:h-14 md:w-14" />
-                </div>
-                <div className='flex items-center justify-center rounded-md bg-gray-800 h-20 w-24 md:h-24 md:w-28 hover:scale-110 transform transition-transform duration-300'>
-                  <DiDjango className="h-10 w-10 md:h-14 md:w-14" />
-                </div>
-                 <div className='flex items-center justify-center rounded-md bg-gray-800 h-20 w-24 md:h-24 md:w-28 hover:scale-110 transform transition-transform duration-300'>
-                  <SiRedux className="h-10 w-10 md:h-14 md:w-14" />
-                </div>
+                </div> 
               </div>
 
             </div>

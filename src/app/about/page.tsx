@@ -21,14 +21,21 @@ const page = () => {
           <div className='py-5 flex flex-col px-10  justify-center '>
 
             <p className='text-gray-400 mt-8 leading-7'>
-                Hi! I'm a passionate and creative Frontend Developer with a strong foundation in <span className='font-bold text-green-600'>HTML, CSS, JavaScript, React.js,</span> and <span className='font-bold text-green-600'>Next.js.</span> I specialize in building fast, responsive, and user-friendly websites and web apps that blend clean code with modern design.
-            </p>
-                  
-            <p className='text-gray-400 mt-8 leading-7'>
-              With experience in both design and development, I love turning ideas into reality in the browser. I'm currently expanding my skills into backend technologies like <span className='font-bold text-green-600'>Node.js, Python, Django </span> and<span className='font-bold text-green-600'> Flask</span>  aiming to become a full-stack developer.
+              Hi! I'm a passionate and dedicated <span className='font-bold text-green-600'>Web Developer</span> with a strong foundation in
+              <span className='font-bold text-green-600'> HTML, CSS, JavaScript, React.js,</span> and
+              <span className='font-bold text-green-600'> Next.js.</span> I specialize in building fast, responsive, and user-focused web applications using modern frontend tools.
             </p>
 
-          
+            <p className='text-gray-400 mt-8 leading-7'>
+              I’ve also built multiple full-featured admin panels and authentication systems using
+              <span className='font-bold text-green-600'> Laravel, MySQL, Bootstrap, jQuery</span>, and
+              <span className='font-bold text-green-600'> AJAX.</span> With a strong backend foundation, I focus on writing clean APIs, implementing role-based access control, and solving real-world problems through secure, maintainable code.
+            </p>
+
+            <p className='text-gray-400 mt-8 leading-7'>
+              I'm currently sharpening my full-stack capabilities and continuously exploring new technologies. My goal is to deliver efficient and scalable solutions, combining both frontend performance and backend power.
+            </p>
+
 
             <Link href='/contact' className='mt-8 hover:text-gray-300 bg-green-600 text-black py-2 px-4 font-bold rounded-xl w-fit'>
               <button>contact me</button>

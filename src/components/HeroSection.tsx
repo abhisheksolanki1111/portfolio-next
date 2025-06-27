@@ -7,22 +7,31 @@ import { faDownload } from "@fortawesome/free-solid-svg-icons";
 
 const words = [
   {
-    text: "Transforming",
+    text: "Web",
   },
   {
-    text: "Ideas,",
+    text: "Developer,",
   },
   {
-    text: "into",
+    text: "Focused",
   },
   {
-    text: "Responsive",
+    text: "on",
+  },
+ 
+  {
+    text: "Performance",
   },
   {
-    text: "Web Experiences",
-  }
+    text: "and",
+  },
+  {
+    text: "Functionality",
+  },
 
 ];
+ 
+
 
 
 function HeroSection() {
@@ -33,7 +42,7 @@ function HeroSection() {
       <div className="p-4 relative z-10 w-full text-center" >
 
         <h1 className="mt-20 md:mt-0 text-3xl text-green-700 flex text-center justify-center md:text-6xl font-bold bg-clip-text ">
-          Sandhya Patel
+          Abhishek Solanki
         </h1>
 
         <div className="mt-2  text-xs  md:text-lg xl:text-xl text-gray-400 max-w-7xl items-center justify-center flex mx-auto">

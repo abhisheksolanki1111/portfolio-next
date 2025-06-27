@@ -12,13 +12,29 @@ const Experience = () => {
 
                 <div className='md:max-w-4xl  mx-auto flex flex-col px-5   mt-8 '>
                     <div className='md:flex items-center space-x-3 '>
-                    <h1 className='text-xl md:text-2xl font-bold text-green-600'>Frontend Developer | </h1>
-                    <a href='https://thinknovus.com/'><button className='text-gray-200 md:font-semibold mx-10 md:mx-0 hover:text-gray-700'>  Think Novous Technologies</button></a>
+                        <h1 className='text-xl md:text-2xl font-bold text-green-600'>Fullstack Developer | </h1>
+                        <a href='https://thinknovus.com/'><button className='text-gray-200 md:font-semibold mx-10 md:mx-0 hover:text-gray-700'> Hauper Technologies</button></a>
                     </div>
 
-                    <h1 className='text-sm font-semibold text-gray-400 mt-5 md:mt-0'>Jan, 2024 - Jan, 2025</h1>
-                    <li className='mt-8 font-semibold text-gray-400'>Designed and implemented user-friendly, responsive web applications using HTML5, CSS3, JavaScript (ES6+) and modern frameworks like React, Redux toolkit, Tailwind css.</li>
-                    <li className='mt-8 font-semibold text-gray-400'>Improved website performance and SEO by optimizing code, reducing load times, and implementing best practices like lazy loading and minimizing CSS/JS bundles.</li>
+                    <h1 className='text-sm font-semibold text-gray-400 mt-5 md:mt-0'>2023 - 2025</h1>
+                    <h3 className='mt-8 font-semibold text-gray-400'> 1. Laravel Development </h3>
+                    <p className='mt-8 font-semibold text-gray-400'><strong>Admin Panel :</strong>  Developed a comprehensive admin panel for
+                        managing user roles,permissions, and content, ensuring efficient
+                        and secure administrative operations.</p>
+                    <p className='mt-8 font-semibold text-gray-400'><strong> E-commerce Project :</strong>  Created a demo e-commerce website with
+                        features such as product listings, shopping cart, checkout
+                        process, and order management, showcasing my ability to build
+                        functional and user-friendly web solutions.</p>
+                    <p className='mt-8 font-semibold text-gray-400'><strong> Additional Projects :</strong>  Contributed to several other projects by
+                        implementing specific tasks, such as integrating APIs, optimizing
+                        database queries, and enhancing application performance.</p>
+                    <h3 className='mt-8 font-semibold text-gray-400'>2. React Development Experience</h3>
+
+                    <p className='mt-8 font-semibold text-gray-400'><strong> Other Project :</strong>  Targus accessory  finder</p>
+                    <p className='mt-8 font-semibold text-gray-400'><strong>  Project Tasks, Bug Fixes, and Modules :</strong> Completed numerous
+                        tasks, bug fixes, and feature modules across multiple projects,
+                        showcasing attention to detail, problem-solving abilities, and a
+                        commitment to delivering high-quality work</p>
                 </div>
             </div>
         </>

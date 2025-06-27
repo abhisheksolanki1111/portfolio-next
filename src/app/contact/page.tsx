@@ -19,7 +19,7 @@ export default function Contact() {
             <h1 className="text-sm text-gray-300">Feel free to reach out if you have any questions!</h1>
             <form
               className="space-y-4 mt-3"
-              action="https://formspree.io/f/xyzgzbdo"
+              action="https://formspree.io/f/xblyqgjv"
               method="POST"
             >
               <div>
@@ -89,17 +89,17 @@ export default function Contact() {
             <div className="px-8 md:px-20 mt-10 text-gray-300">
             <div className="flex space-x-2 items-center hover:text-green-600">
                 <MdEmail className="text-2xl" />
-                <a href="mailto:sandhyapt30@gmail.com" className="font-bold">
-                  sandhyapt30@gmail.com
+                <a href="mailto:abwebdevlopment1111@gmail.com" className="font-bold">
+                  abwebdevlopment1111@gmail.com
                 </a>
               </div>
 
               <div className="flex space-x-5 text-3xl items-center ">
-                <a href="https://www.linkedin.com/in/sandhyafrontend/">
+                <a target="_blank" href="https://www.linkedin.com/in/abhishek-solanki-359446211/">
                   <FaLinkedin className="hover:text-green-600 mt-5" />
                 </a>
 
-                <a href="https://github.com/sandhyapatel12">
+                <a target="_blank" href="https://github.com/abhisheksolanki1111">
                   <FaGithub className="hover:text-green-600 mt-5" />
                 </a>
 

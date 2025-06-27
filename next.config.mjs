@@ -8,8 +8,8 @@ const nextConfig = {
   publicRuntimeConfig: {
     staticFolder: 'public',
   },
-  output: 'export',
-  trailingSlash: true,
+  // output: 'export',
+  // trailingSlash: true,
 };
 
 export default nextConfig;
